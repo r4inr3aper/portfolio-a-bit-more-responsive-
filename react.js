@@ -1,0 +1,1 @@
+ReactDOM.render(<h1>THIS IS JUST FOR TESTIN</h1>, getElementById("root"))
